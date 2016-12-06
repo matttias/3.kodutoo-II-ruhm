@@ -1,0 +1,9 @@
+<input id="o_course" name="o_course" type="radio" value="<?php echo $m->o_course;?>"> 1 <br>
+			
+		<input id="o_course" name="o_course" type="radio" value="<?php echo $m->o_course;?>"> 2 <br>
+		
+		<input id="o_course" name="o_course" type="radio" value="<?php echo $m->o_course;?>"> 3 <br>
+				
+		<input id="o_course" name="o_course" type="radio" value="<?php echo $m->o_course;?>"> 4 <br>
+
+		<input id="o_course" name="o_course" type="radio" value="<?php echo $m->o_course;?>"> 5 <br>
